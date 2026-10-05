@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Welcome ItsFizz | Car-Scroll-Animation",
+  title: "Welcome ItzFizz | Car-Scroll-Animation",
   description: "Scroll-driven hero animation",
 };
 
